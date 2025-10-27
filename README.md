@@ -1,9 +1,10 @@
 # Security Devroom @ FOSDEM'2026
 
-[FOSDEM 2026](https://fosdem.org/2026/) may have a security devroom.
+[FOSDEM 2026](https://fosdem.org/2026/) will have a [security
+devroom](https://fosdem.org/2026/schedule/track/security/).
 
-The security devroom is planned for FOSDEM'26 in Brussels, Belgium at
-[ULB](http://www.ulb.ac.be/).
+The security devroom is planned for the whole **Saturday, January
+31th, 2026** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
 
 The latest version of this document should always be reachable as
 https://github.com/security-devroom/fosdem-2026
@@ -28,16 +29,16 @@ Suggested duration for a timeslot to apply for is **25 minutes**
 
 ## Important Dates
 
-- Submission open: 30th October 2025.
-- Submission deadline: 1st December 2025.
-- Acceptance notifications: 6th December 2025.
-- Final schedule announcement: 15th December 2025.
-- Devroom: 31 January 31 / 1 February 2026.
+- Submission open: 30th October 2026.
+- Submission deadline: 1st December 2026.
+- Acceptance notifications: 6th December 2026.
+- Final schedule announcement: 15th December 2026.
+- Devroom: Saturday 31 January 2026.
 
 ## Proposals
 
 The Pretalx system will hopefully be open for applications no later
-than October the 30th, 2025.
+than October the 30th, 2026.
 
 To submit a talk, please visit the [FOSDEM 2026 Pretalx
 website](https://pretalx.fosdem.org/fosdem-2026/cfp).  Please select
