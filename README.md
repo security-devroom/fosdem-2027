@@ -29,16 +29,16 @@ Suggested duration for a timeslot to apply for is **25 minutes**
 
 ## Important Dates
 
-- Submission open: 30th October 2026.
-- Submission deadline: 1st December 2026.
-- Acceptance notifications: 6th December 2026.
-- Final schedule announcement: 15th December 2026.
+- Submission open: 30th October 2025.
+- Submission deadline: 1st December 2025.
+- Acceptance notifications: 6th December 2025.
+- Final schedule announcement: 15th December 2025.
 - Devroom: Saturday 31 January 2026.
 
 ## Proposals
 
 The Pretalx system will hopefully be open for applications no later
-than October the 30th, 2026.
+than October the 30th, 2025.
 
 To submit a talk, please visit the [FOSDEM 2026 Pretalx
 website](https://pretalx.fosdem.org/fosdem-2026/cfp).  Please select
