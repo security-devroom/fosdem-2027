@@ -1,13 +1,14 @@
-# Security Devroom @ FOSDEM'2026
+# Security Devroom @ FOSDEM'2027
 
-[FOSDEM 2026](https://fosdem.org/2026/) will have a [security
-devroom](https://fosdem.org/2026/schedule/track/security/).
+[FOSDEM 2027](https://fosdem.org/2027/) may have a [security
+devroom](https://fosdem.org/2027/schedule/track/security/).
 
-The security devroom is planned for the whole **Saturday, January
-31th, 2026** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
+The security devroom is planned for the whole **Saturday/Sunday,
+January 30/31th, 2027** in Brussels, Belgium at
+[ULB](http://www.ulb.ac.be/).
 
 The latest version of this document should always be reachable as
-https://github.com/security-devroom/fosdem-2026
+https://github.com/security-devroom/fosdem-2027
 
 ## Our topics this year
 
@@ -29,19 +30,19 @@ Suggested duration for a timeslot to apply for is **25 minutes**
 
 ## Important Dates
 
-- Submission open: 30th October 2025.
-- Submission deadline: 1st December 2025.
-- Acceptance notifications: 6th December 2025.
-- Final schedule announcement: 15th December 2025.
-- Devroom: Saturday 31 January 2026.
+- Submission open: 30th October 2026.
+- Submission deadline: 1st December 2026.
+- Acceptance notifications: 6th December 2026.
+- Final schedule announcement: 15th December 2026.
+- Devroom: Saturday/Sunday 30/31 January 2027.
 
 ## Proposals
 
 The Pretalx system will hopefully be open for applications no later
-than October the 30th, 2025.
+than October the 30th, 2026.
 
-To submit a talk, please visit the [FOSDEM 2026 Pretalx
-website](https://pretalx.fosdem.org/fosdem-2026/cfp).  Please select
+To submit a talk, please visit the [FOSDEM 2027 Pretalx
+website](https://pretalx.fosdem.org/fosdem-2027/cfp).  Please select
 the "Security" as the *track* and ensure you include all the requested
 information when submitting a proposal.
 
@@ -50,7 +51,7 @@ information when submitting a proposal.
 We'd like to remind all speakers and attendees that all of the
 presentations and discussions in our devroom are held under the
 guidelines set forth in the [FOSDEM Code of
-Conduct](https://fosdem.org/2026/practical/conduct/) and we expect
+Conduct](https://fosdem.org/2027/practical/conduct/) and we expect
 everyone attending to follow it.
 
 ### Organizers
