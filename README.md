@@ -34,7 +34,7 @@ Suggested duration for a timeslot to apply for is **25 minutes**
 - Submission deadline: 1st December 2026.
 - Acceptance notifications: 6th December 2026.
 - Final schedule announcement: 7th December 2026.
-- Devroom: Saturday/Sunday 30 January 2027.
+- Devroom: Saturday 30 January 2027.
 
 ## Proposals
 
