@@ -1,10 +1,10 @@
 # Security Devroom @ FOSDEM'2027
 
-[FOSDEM 2027](https://fosdem.org/2027/) may have a [security
+[FOSDEM 2027](https://fosdem.org/2027/) will have a [security
 devroom](https://fosdem.org/2027/schedule/track/security/).
 
-The security devroom is planned for the whole **Saturday/Sunday,
-January 30/31th, 2027** in Brussels, Belgium at
+The security devroom is planned for the whole **Saturday,
+January 30th, 2027** in Brussels, Belgium at
 [ULB](http://www.ulb.ac.be/).
 
 The latest version of this document should always be reachable as
@@ -34,7 +34,7 @@ Suggested duration for a timeslot to apply for is **25 minutes**
 - Submission deadline: 1st December 2026.
 - Acceptance notifications: 6th December 2026.
 - Final schedule announcement: 7th December 2026.
-- Devroom: Saturday/Sunday 30/31 January 2027.
+- Devroom: Saturday/Sunday 30 January 2027.
 
 ## Proposals
 
