@@ -66,4 +66,4 @@ everyone attending to follow it.
 
 ### Contact
 
-[security-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/security-devroom)
+[security-devroom@lists.fosdem.org](https://lists.fosdem.org/postorius/lists/security-devroom.lists.fosdem.org/)
