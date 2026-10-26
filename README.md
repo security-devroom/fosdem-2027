@@ -38,8 +38,7 @@ Suggested duration for a timeslot to apply for is **25 minutes**
 
 ## Proposals
 
-The Pretalx system will hopefully be open for applications no later
-than October the 30th, 2026.
+The Pretalx system is already opened for applications.
 
 To submit a talk, please visit the [FOSDEM 2027 Pretalx
 website](https://pretalx.fosdem.org/fosdem-2027/cfp).  Please select
