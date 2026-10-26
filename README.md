@@ -5,7 +5,7 @@ devroom](https://fosdem.org/2027/schedule/track/security/).
 
 The security devroom is planned for the whole **Saturday,
 January 30th, 2027** in Brussels, Belgium at
-[ULB](http://www.ulb.ac.be/).
+[ULB](https://www.ulb.be/).
 
 The latest version of this document should always be reachable as
 https://github.com/security-devroom/fosdem-2027
